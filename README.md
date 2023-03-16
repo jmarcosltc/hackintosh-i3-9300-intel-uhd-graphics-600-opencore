@@ -19,6 +19,8 @@
 
 Just drop the EFI folder on your bootable USB drive next to you com.apple.recovery.boot folder
 
+IMPORTANT: Make sure you have you own SMBIOS configured at config.plist
+
 ## macOS
 
 | OS  | State |

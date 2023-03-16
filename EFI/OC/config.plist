@@ -1131,23 +1131,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02918200GULNV91F</string>
+			<string>YOURS</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>VJ8TxVNU</data>
+			<data>YOURS</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>YOURS</string>
 			<key>SystemSerialNumber</key>
-			<string>C02YNQZXJV3Q</string>
+			<string>YOURS</string>
 			<key>SystemUUID</key>
-			<string>4A26E9C6-5D41-4BB3-85E8-CDA46872131A</string>
+			<string>YOURS</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
